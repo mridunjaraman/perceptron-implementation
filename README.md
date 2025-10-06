@@ -5,7 +5,7 @@ It trains a binary classifier on the **Iris dataset** to distinguish between *Ir
 
 ---
 
-## 📌 Features
+## Features
 - Custom `Perceptron` class (no external ML libraries used).
 - Training loop with weight updates using perceptron learning rule.
 - Visualization of:
@@ -15,7 +15,7 @@ It trains a binary classifier on the **Iris dataset** to distinguish between *Ir
 
 ---
 
-## 🚀 Requirements
+## Requirements
 Make sure you have the following installed:
 
 ```bash
